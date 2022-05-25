@@ -1,6 +1,6 @@
 ﻿# Farfetch API!
 
-Hello, this repo contains an API for fetching data from a fashion online store called Farfetch. For more information on the API itself checkout the documentation on the docs folder and for a nice demo checkout the video in the demo folder.
+Hello, this repo contains an API for fetching data from a fashion online store called Farfetch. For more information on the API itself checkout the documentation on the docs folder and for a nice demo checkout the demo folder as well as this little video I made https://youtu.be/Cc0JIqnfUcQ.
 <br>
 <br>
 
